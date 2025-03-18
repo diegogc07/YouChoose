@@ -3,8 +3,8 @@ Esta plataforma es un proyecto enfocado para la universidad del CUCI, con el fin
 
 La página integra las siguientes funciones:
 
-1. Un sistema de registro
-2. Un sistema de inicio de sesión
+1. Un sistema de registro unicamente mediante correo institucional 
+2. Un apartado de inicio de sesión
 3. Un sistema de valoración a los docentes
 4. Un directorio
 5. Un perfil de usuarios
